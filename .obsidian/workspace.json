@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Подготовка к экзамену.md",
+                "file": "Decisions/Review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Подготовка к экзамену"
+              "title": "Review"
             }
           }
         ],
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Подготовка к экзамену.md",
+                "file": "Decisions/Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,14 +204,19 @@
   },
   "active": "1b11be13a9b9cdce",
   "lastOpenFiles": [
+    "Terms/Цикл.md",
+    "Подготовка к экзамену.md",
+    "Decisions/Review.md",
     "Answers/Сумма положительных чисел.md",
+    "Decisions",
+    "Answers/Подсчет подходящих элементов.md",
+    "Answers/Циклы.md",
+    "Answers/Условный оператор.md",
+    "Terms/Логическое выражение.md",
     "README.md",
     "schema.md",
-    "Подготовка к экзамену.md",
     "Answers/Списки и строки.md",
-    "Terms/Цикл.md",
     "Terms/Тип данных.md",
-    "Answers/Числовые типы данных.md",
-    "Terms/Логическое выражение.md"
+    "Answers/Числовые типы данных.md"
   ]
 }
